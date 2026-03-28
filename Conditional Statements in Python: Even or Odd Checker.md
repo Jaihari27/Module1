@@ -10,8 +10,6 @@ To write a Python program to check whether the given number is **even** or **odd
    - If true, print `"EVEN"`.
    - Else, print `"ODD"`.
 4. End the program.
-
-## 🧾 Program
 ```
 a=int(input())
 if a%2==0:
